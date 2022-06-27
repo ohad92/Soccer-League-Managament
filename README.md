@@ -55,7 +55,10 @@ To access Manager's Functionalities you will have to be logged in as FIFA Repres
  "password": "Admin"
 }
 ```
-</br>
-</br>
 
+![WhatsApp Image 2022-06-27 at 14 30 50](https://user-images.githubusercontent.com/73739848/175934509-29314626-438c-4198-aa7e-44bb69cbb4f1.jpeg)
+
+![WhatsApp Image 2022-06-27 at 14 30 49 (2)](https://user-images.githubusercontent.com/73739848/175934545-7c61a48f-3358-401a-8570-1ce7b1c2b565.jpeg)
+
+![WhatsApp Image 2022-06-27 at 14 30 49 (1)](https://user-images.githubusercontent.com/73739848/175934557-7eb771a5-18ef-4b50-9c52-9a969afcc957.jpeg)
 
